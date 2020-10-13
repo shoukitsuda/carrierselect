@@ -5,11 +5,10 @@
 
 
 ## TRUFFLE
-Ethereum開発プラットフォームです。
+TRUFFLEはEthereum開発プラットフォームです。
+詳しくは[こちら](https://github.com/trufflesuite/truffle)をご覧ください
 
-https://github.com/trufflesuite/ganache
-
-/truffleのセッティング/
+/truffleのインストール/
 ```
 $npm install -g truffle
 ```
