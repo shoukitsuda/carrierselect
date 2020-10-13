@@ -27,9 +27,18 @@ Truffleについて、詳しくは[こちら](https://github.com/trufflesuite/tr
 
 ## Ganache
 「個人のイーサリアムブロックチェーン」として開発用のEthereumブロックチェーンを用意してくれるツールです。
+<br>
+①[こちら](https://www.trufflesuite.com/ganache)からGanacheをダウンロードしてください。
+<br>
+②ダウンロードが終わったら、インストールしてGanacheを起動してください。
+<br>
+③このような画面が表示されれば完了です！🎉
+<img width="1440" alt="スクリーンショット 2020-10-13 15 14 35" src="https://user-images.githubusercontent.com/47593288/95822413-d5386400-0d66-11eb-9394-3098a7a0a863.png">
 
-[こちらのページ](https://www.trufflesuite.com/ganache)からGanacheをダウンロードしてください。
-/Ganacheのセッティング/
 
-https://www.trufflesuite.com/ganache
+ハンズオンの中でTruffleとGanacheのつなぎ方について説明いたします。
+<br>
+このレポジトリーをクローンしてお待ちください
+、
+、、
 
