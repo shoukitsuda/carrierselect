@@ -1,4 +1,4 @@
-# carrierselect
+# carrierselect<環境構築>
 「スマートコントラクトをtruffleで実装」→「Ganacheでデプロイ」という形で開発します。
 
 ![](https://user-images.githubusercontent.com/47593288/95819154-5b9d7780-0d60-11eb-89dd-f665b0b0e2a8.png)
@@ -13,12 +13,12 @@ https://github.com/trufflesuite/ganache
 ```
 $npm install -g truffle
 ```
+
 /truffleのコマンド/
 |  動作  | コマンド  |
 | ---- | ---- |              
 |Compile   |truffle compile    |
 |Migrate     |truffle migrate      |
-|create migration file   |truffle create migraton 名前     |
 |Console   |truffle console --network ネットワーク名      |
 |Test   |truffle test      |
 
@@ -42,11 +42,4 @@ https://github.com/trufflesuite/ganache
 /Ganacheのセッティング/
 
 https://www.trufflesuite.com/ganache
-<br>
-↑を真似してアプリをインストール
-<br>
-・Ganasheを開いてワークスペースは自分でテキトーに作ってね
-<br>
-・truffle-config.jsファイルのパスをGanacheのワークスペースに追加する。
-<br>
-・セーブして終了
+
