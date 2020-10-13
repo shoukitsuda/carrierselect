@@ -39,6 +39,13 @@ Truffleについて、詳しくは[こちら](https://github.com/trufflesuite/tr
 ハンズオンの中でTruffleとGanacheのつなぎ方について説明いたします。
 <br>
 このレポジトリーをクローンしてお待ちください
-、
-、、
 
+## TruffleとGanacheの接続
+①「NEW WORKSPACE」をクリック
+<img width="1440" alt="スクリーンショット 2020-10-13 15 35 52" src="https://user-images.githubusercontent.com/47593288/95824382-2bf36d00-0d6a-11eb-90b9-6df0ada33d98.png">
+②
+
+## 必要なライブラリのインストール
+```
+$ npm install @openzeppelin/contracts
+```
