@@ -23,13 +23,12 @@ $npm install -g truffle
 $truffle version
 ```
 
-環境構築について、詳しくは[こちら](https://github.com/trufflesuite/truffle)をご覧ください
+Truffleについて、詳しくは[こちら](https://github.com/trufflesuite/truffle)をご覧ください
 
 ## Ganache
 「個人のイーサリアムブロックチェーン」として開発用のEthereumブロックチェーンを用意してくれるツールです。
 
-https://github.com/trufflesuite/ganache
-
+[こちらのページ](https://www.trufflesuite.com/ganache)からGanacheをダウンロードしてください。
 /Ganacheのセッティング/
 
 https://www.trufflesuite.com/ganache
