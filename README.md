@@ -7,6 +7,7 @@
 ## Truffle
 TruffleはEthereum開発プラットフォームです。
 <br>
+<br>
 ①自分のPCが以下の環境を満たしていることを確認してください
 ```
 NodeJS v8.9.4 or later
@@ -16,6 +17,12 @@ Windows, Linux or Mac OS X
 ```
 $npm install -g truffle
 ```
+
+③以下のコマンドでバージョンを確認してください。表示されれば成功です🎉
+```
+$truffle version
+```
+
 環境構築について、詳しくは[こちら](https://github.com/trufflesuite/truffle)をご覧ください
 
 ## Ganache
