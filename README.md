@@ -1,9 +1,10 @@
 # carrierselect
 
-![代替テキスト](https://images.app.goo.gl/WyLcJFLGYkgt5379A)
+![](https://user-images.githubusercontent.com/47593288/95819154-5b9d7780-0d60-11eb-89dd-f665b0b0e2a8.png)
+
 
 ## Truffle
-Ethereumの開発プラットフォームです。
+Ethereum開発プラットフォームです。
 「スマートコントラクトをtruffleで実装」→「Ganacheでデプロイ」という形で開発します。
 
 https://github.com/trufflesuite/ganache
