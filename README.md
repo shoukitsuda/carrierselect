@@ -43,7 +43,12 @@ Truffleについて、詳しくは[こちら](https://github.com/trufflesuite/tr
 ## TruffleとGanacheの接続
 ①「NEW WORKSPACE」をクリック
 <img width="1440" alt="スクリーンショット 2020-10-13 15 35 52" src="https://user-images.githubusercontent.com/47593288/95824382-2bf36d00-0d6a-11eb-90b9-6df0ada33d98.png">
-②
+②「ADD projelct」→「/CarrierSelect/truffle-config.jsを設定」→「SAVE AND RESTSART」
+<img width="1440" alt="スクリーンショット 2020-10-14 11 05 40" src="https://user-images.githubusercontent.com/47593288/95935076-58ac9080-0e0d-11eb-9e0a-fba836375a5a.png">
+③このような画面が表示されれば完了です🎉
+<br>
+ランダムなアドレス
+<img width="1440" alt="スクリーンショット 2020-10-14 11 05 12" src="https://user-images.githubusercontent.com/47593288/95935080-59ddbd80-0e0d-11eb-8e12-402a166b2709.png">
 
 ## 必要なライブラリのインストール
 ```
