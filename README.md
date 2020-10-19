@@ -47,6 +47,7 @@ Truffleについて、詳しくは[こちら](https://github.com/trufflesuite/tr
 
 ## 必要なライブラリのインストール
 ERC20トークンを作成するのに必要なライブラリです
+下記のコマンドからインストールしてください。
 ```
 $ npm install @openzeppelin/contracts
 ```
