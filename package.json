@@ -1,0 +1,8 @@
+{
+  "name": "CarrierSelect",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.1.1"
+  }
+}
